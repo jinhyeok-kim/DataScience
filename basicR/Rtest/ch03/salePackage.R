@@ -15,3 +15,5 @@ cat("maxMonth : ", maxMonth, "\n")
 cat("min : ", minTotal, "\n")
 cat("minMonth : ", minMonth, "\n")
 cat("sort : ", sortMonth, "\n")
+
+mode(saleMoney)

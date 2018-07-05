@@ -1,0 +1,6 @@
+res1 <- seq(from = 1, to = 20, by = 2)
+cat("res1 : ", res1, "\n")
+res2 <- seq(from = 1, to = 5, by = 0.5)
+cat("res2 : ", res2, "\n")
+res3 <- seq(1, 20, length.out =  7)
+cat("res3 : ", res3, "\n")
