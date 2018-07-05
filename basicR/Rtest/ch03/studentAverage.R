@@ -1,0 +1,6 @@
+score <- c(80,90,70,65,55,30,60,90,88,100,76)
+sumScore <- sum(score)
+avgScore <- mean(score)
+midScore <- median(score)
+cat("total  =", sumScore, "Average : ", avgScore, "\n")
+cat("median = ", midScore)
